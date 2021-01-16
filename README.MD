@@ -192,5 +192,5 @@
 
 
 
-# PHD 
+# add-ons 
 https://www.reddit.com/r/robotics/comments/kpkne5/how_to_get_started_in_robotics_education_career/
