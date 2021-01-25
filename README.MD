@@ -194,3 +194,5 @@
 
 # add-ons 
 https://www.reddit.com/r/robotics/comments/kpkne5/how_to_get_started_in_robotics_education_career/
+
+https://www.youtube.com/watch?v=5Agb7qXi3Cc- Teaching Robotics with ROS: Experiences, Suggestions, and Tales of Woe
