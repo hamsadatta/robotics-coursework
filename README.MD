@@ -198,3 +198,5 @@ https://www.reddit.com/r/robotics/comments/kpkne5/how_to_get_started_in_robotics
 https://www.youtube.com/watch?v=5Agb7qXi3Cc- Teaching Robotics with ROS: Experiences, Suggestions, and Tales of Woe
 
 http://freicar.informatik.uni-freiburg.de/syllabus - FreiCAR course-Uni Freiburg
+
+https://www.youtube.com/watch?v=SNxZDGOLrxw - ROS 2019 update- Robot Operating System (ROS): current and future capabilities on embedded systems
