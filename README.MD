@@ -203,4 +203,4 @@ https://www.youtube.com/watch?v=SNxZDGOLrxw - ROS 2019 update- Robot Operating S
 
 https://www.youtube.com/watch?v=FGbYdsaX5pw -Robotics in Academia vs in the Startup by Rodney Brooks 2020
 
-https://www.youtube.com/watch?v=ZL8ddCQFuXU- Toward the Robots of Science Fiction - A. Ames - 12/6/2017
+https://www.youtube.com/watch?v=ZL8ddCQFuXU- Toward the Robots of Science Fiction - A. Ames - 12/6/2017 [Non-linear Dynamics]
