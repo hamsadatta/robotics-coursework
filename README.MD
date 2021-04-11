@@ -202,3 +202,5 @@ http://freicar.informatik.uni-freiburg.de/syllabus - FreiCAR course-Uni Freiburg
 https://www.youtube.com/watch?v=SNxZDGOLrxw - ROS 2019 update- Robot Operating System (ROS): current and future capabilities on embedded systems
 
 https://www.youtube.com/watch?v=FGbYdsaX5pw -Robotics in Academia vs in the Startup by Rodney Brooks 2020
+
+https://www.youtube.com/watch?v=ZL8ddCQFuXU- Toward the Robots of Science Fiction - A. Ames - 12/6/2017
