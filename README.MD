@@ -206,3 +206,5 @@ https://www.youtube.com/watch?v=FGbYdsaX5pw -Robotics in Academia vs in the Star
 https://www.youtube.com/watch?v=ZL8ddCQFuXU- Toward the Robots of Science Fiction - A. Ames - 12/6/2017 [Non-linear Dynamics]
 
 https://www.reddit.com/r/askscience/comments/2ozkcv/whats_the_point_of_linear_algebra/- whats the point of linear algebra ?
+
+https://projecteuler.net/archives - math based problem sets
