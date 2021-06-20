@@ -208,3 +208,5 @@ https://www.youtube.com/watch?v=ZL8ddCQFuXU- Toward the Robots of Science Fictio
 https://www.reddit.com/r/askscience/comments/2ozkcv/whats_the_point_of_linear_algebra/- whats the point of linear algebra ?
 
 https://projecteuler.net/archives - math based problem sets
+
+https://www.oodesign.com/singleton-pattern.html - OOP and Design Patterns
