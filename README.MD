@@ -212,3 +212,5 @@ https://projecteuler.net/archives - math based problem sets
 https://www.oodesign.com/singleton-pattern.html - OOP and Design Patterns
 
 https://www.sensorland.com/HowPage001.html- info on sensors and stuff
+
+https://openkinect.org/wiki/Main_Page- Xbox Kinect hardware and software
