@@ -210,3 +210,5 @@ https://www.reddit.com/r/askscience/comments/2ozkcv/whats_the_point_of_linear_al
 https://projecteuler.net/archives - math based problem sets
 
 https://www.oodesign.com/singleton-pattern.html - OOP and Design Patterns
+
+https://www.sensorland.com/HowPage001.html- info on sensors and stuff
