@@ -145,7 +145,7 @@
 - [♥️ Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
-- Algorithms and Data Structures, C++, Python, Octave
+- Algorithms and Data Structures-[ Andreis Interview Repository](https://github.com/Olshansk/interview)| [Algorithm Playground](https://github.com/mithi/algorithm-playground), C++, Python, Octave
 - [♥️ More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 [tools1]: https://mithi.github.io/deep-blueberry/
