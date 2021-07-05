@@ -214,3 +214,5 @@ https://www.oodesign.com/singleton-pattern.html - OOP and Design Patterns
 https://www.sensorland.com/HowPage001.html- info on sensors and stuff
 
 https://openkinect.org/wiki/Main_Page- Xbox Kinect hardware and software
+
+https://github.com/ros-industrial/ros2_i_training - ROS2 Foxy training material Fraunhofer IPA
