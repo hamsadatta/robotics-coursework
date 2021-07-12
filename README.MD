@@ -218,3 +218,5 @@ https://openkinect.org/wiki/Main_Page- Xbox Kinect hardware and software
 https://github.com/ros-industrial/ros2_i_training - ROS2 Foxy training material Fraunhofer IPA
 
 https://www.youtube.com/channel/UC8wqH2srPzTaWqjT4-SKRqQ/videos - Fundamental Mathematics for Robotics @CIT 
+
+https://www.youtube.com/watch?v=y57wwucbXR8- Building the Software 2 0 Stack (Andrej Karpathy)
