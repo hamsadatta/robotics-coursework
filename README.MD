@@ -221,8 +221,4 @@ https://www.youtube.com/channel/UC8wqH2srPzTaWqjT4-SKRqQ/videos - Fundamental Ma
 
 https://www.youtube.com/watch?v=y57wwucbXR8- Building the Software 2 0 Stack (Andrej Karpathy)
 
-https://www.youtube.com/watch?v=UbaVGD4Lfis&list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd - Probabilistic Machine Learning  [University of Tübingen]
-
-https://www.youtube.com/watch?v=iL4WhR0hzns&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_ - Computer Vision [University of Tübingen]
-
-
+https://www.youtube.com/c/T%C3%BCbingenML/playlists - Tübingen Machine Learning Group
