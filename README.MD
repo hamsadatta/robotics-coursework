@@ -222,3 +222,5 @@ https://www.youtube.com/channel/UC8wqH2srPzTaWqjT4-SKRqQ/videos - Fundamental Ma
 https://www.youtube.com/watch?v=y57wwucbXR8- Building the Software 2 0 Stack (Andrej Karpathy)
 
 https://www.youtube.com/c/T%C3%BCbingenML/playlists - Tübingen Machine Learning Group
+
+https://textbooks.math.gatech.edu/ila/index.html - Interactive Linear Algebra
