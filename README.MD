@@ -226,3 +226,5 @@ https://www.youtube.com/c/T%C3%BCbingenML/playlists - Tübingen Machine Learning
 https://textbooks.math.gatech.edu/ila/index.html - Interactive Linear Algebra
 
 https://www.youtube.com/watch?v=_TXY7R2op_0 - [2015 -Raffaello D’Andrea on the Future of Robotics]
+
+https://developer.nvidia.com/educators/existing-courses - NVIDIA University Courses
