@@ -224,3 +224,5 @@ https://www.youtube.com/watch?v=y57wwucbXR8- Building the Software 2 0 Stack (An
 https://www.youtube.com/c/T%C3%BCbingenML/playlists - Tübingen Machine Learning Group
 
 https://textbooks.math.gatech.edu/ila/index.html - Interactive Linear Algebra
+
+https://www.youtube.com/watch?v=_TXY7R2op_0 - [2015 -Raffaello D’Andrea on the Future of Robotics]
