@@ -230,3 +230,5 @@ https://www.youtube.com/watch?v=_TXY7R2op_0 - [2015 -Raffaello D’Andrea on the
 https://developer.nvidia.com/educators/existing-courses - NVIDIA University Courses
 
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html - CUDA Toolkit
+
+https://graphics.stanford.edu/courses/cs205a/schedule.html - Mathematical Methods for Robotics, Vision, and Graphics stanford
