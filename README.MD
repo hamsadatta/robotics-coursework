@@ -231,4 +231,4 @@ https://developer.nvidia.com/educators/existing-courses - NVIDIA University Cour
 
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html - CUDA Toolkit
 
-https://graphics.stanford.edu/courses/cs205a/schedule.html - Mathematical Methods for Robotics, Vision, and Graphics stanford
+https://graphics.stanford.edu/courses/cs205a/schedule.html -  Mathematical Methods for Robotics, Vision, and Graphics stanford
