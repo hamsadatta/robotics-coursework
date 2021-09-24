@@ -166,6 +166,7 @@
 | [Fkromer](https://github.com/fkromer/awesome-ros2)
 | [HarshMaithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
 | [Kanster](https://github.com/kanster/awesome-slam)
+| [jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
 
 # Misc
 | [Adafruit](https://adafruit.com/)
