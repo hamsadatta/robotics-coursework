@@ -237,3 +237,5 @@ https://graphics.stanford.edu/courses/cs205a/schedule.html -  Mathematical Metho
 https://howtolearnmachinelearning.com/ - How to ML
 
 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU - Leetcode T75
+
+https://szeliski.org/Book/ - CV with Deep learning
